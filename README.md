@@ -1,4 +1,4 @@
 # my-demo
 This my first Git Repository
 <br>
-Auther- Rahul Prajapat
+Auther- Rahul Prajapat (Hexta)
